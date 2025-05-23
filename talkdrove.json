@@ -10,27 +10,27 @@
     "SESSION_ID": {
       "description": "Must Start with 'PRINCE-MDX~'",
       "required": true,
-      "value": ""
+      "value": "PRINCE-MDX~tncuNrJ6GmmEkwdZms6h"
     },  
     "MODE": {
       "description": "Set private/public/inbox/groups",
       "required": false,
-      "value": "public"
+      "value": "private"
     },
     "OWNER_NAME": {
       "description": "Put Owner Name Here",
       "required": true,
-      "value": "Prince Tech"
+      "value": "Micheal MSSX"
     },
     "OWNER_NUMBER": {
       "description": "Put only one Owner Number Here",
       "required": true,
-      "value": "237677224245"
+      "value": "2348136037303"
     },
     "ANTI_DELETE": {
       "description": "Put true/inboxonly/allchats/false",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     
     "PRESENCE": {
