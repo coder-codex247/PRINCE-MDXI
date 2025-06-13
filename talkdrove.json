@@ -1,6 +1,6 @@
 {
-  "bot-name": "PRINCE-MDXI",
-  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴘʀɪɴᴄᴇ ᴛᴇᴄʜ",
+  "bot-name": "ℂ𝕆𝔻𝔼𝕏 𝔸𝕊𝕊𝕀𝕊𝕋𝔸ℕ𝕋",
+  "description": "ⒸⓄⒹⒺⓍ ⓅⒺⓇⓈⓄⓃⒶⓁ ⓌⒽⒶⓉⓈⒶⓅⓅ ⒶⓈⓈⒾⓈⓉⒶⓃⓉ",
   "logo": "https://raw.githubusercontent.com/Mayelprince/url/main/url/1264.jpg",
   "keywords": ["bot"],
   "documentation-link": "https://princeweb.onrender.com",
@@ -10,22 +10,22 @@
     "SESSION_ID": {
       "description": "Must Start with 'PRINCE-MDX~'",
       "required": true,
-      "value": ""
+      "value": "PRINCE-MDX~lIBdBue7qBoxXbNsSkOh"
     },  
     "MODE": {
       "description": "Set private/public/inbox/groups",
       "required": false,
-      "value": "public"
+      "value": "private"
     },
     "OWNER_NAME": {
       "description": "Put Owner Name Here",
       "required": true,
-      "value": "Prince Tech"
+      "value": "☆࿐ཽ༵༆༒ 𝑪𝒐𝒅𝒆𝒙 ༒༆࿐ཽ༵☆"
     },
     "OWNER_NUMBER": {
       "description": "Put only one Owner Number Here",
       "required": true,
-      "value": "237677224245"
+      "value": "2348058496605"
     },
     
    
