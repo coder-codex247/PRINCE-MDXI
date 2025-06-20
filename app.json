@@ -12,12 +12,12 @@
     "SESSION_ID": {
       "description": "Put your session-id here. Must Start with 'PRINCE-MDX~'",
       "required": true,
-      "value": ""
+      "value": "PRINCE-MD~H4sIAAAAAAAAA5VU25KiSBD9l3rVGLkqGtERy60REUVRUTf2oRoKRC6FVYVIT/jvE9jd0xOxsxO9PBVJkXnOyZP5HZQ4pchBLZh8BxVJr5Ch7sjaCoEJ0Oo4RgT0QQQZBBNgLfjxarOrwxW6JscLk3z7bMnYuZxvPR5V89msOO3njRWX2ydw74OqfsnT8A8JveZs1z2cH24o2A1Ei4SKbzB3ljxzmqi7uMqql5OjaIOT8gTuXUaYkrRMzOqECkRg7qDWgyn5GnzTy3RFsa4u3p8bN9ig6MgFL5ldkFOobtZk4ZOVAweHV/GL8Bft82AcXDMYK4xhbmFsbj1lWY21c6uxgzxdVbgOibc8TaU3+DRNShTZESpZytov66460ozV3i3wBqsWUoGLjK0pzmfHq9xkQk9SjCyKZ3adW6uvAffxHHFRmYZ2uzNYG46DzJzTNosKeaBmarjfWoHMqdlhzf0K3CMfXsn+j+6qxsKKsRF295Audq7d0FqtjtorGmaOU/uVmi4C96ScBemL8A9Teov0eOVyQiBY5f68GpFhAQ+L80Y0LapejNxZc9RfZ5/wIavJn1AGSun0fG+lNLdVohwvWvO6nXHxOqoUHE0V+yXQFqOtzh2WvOGq9tULcseIBuvnZVEJxX6YZ9ujlbPCrA+9Vrjy+aZuzsnTg1GGWjsCE/7eBwQlKWUEshSXXUzm+gBGVx+FBLGHuiCMw9cY+eLzQva2uFrFIeaLJKKvbW7zh0ZJE5PjazofX9Un0AcVwSGiFEXTlDJMWhdRChNEweTvR6M6zgQVmKFZGoEJEERJ4SVJlvjRmP+LfmtOkFFYVd9KxEAfxAQXLgITRmrUB48/dFMZ8pohy8bY4GRTVUWDV0ZjleOGQ8EQ1Y5i8VZ1kxaIMlhUYMKPZE6SFEES7//0QYlu7M0/HWuR74M4JZRty7rKMYw+zPXxEYYhrkvmt2WodwdEwIT7DCPG0jKhHbW6hCQ8pVekdzzAJIY5RT+FRgRFH1zel4eOo67/8nE0FLfGBnTYu0T/Fmci/Uaf/HFPEoeCNBQ4iR8JstJd7OL3nwi7hBFiMM1pJ+ByWJ0JfTaXm4antmWpNFH1RAWfjD4c+maBZmY2C1U/Lw8bs1ef4Kg32/qJiy4qTSx0sWNhSWjT+LciefpNEjABz3SwDp3Fraxk07HQDBpzP5ZOy3xmcclxvsfHqexYQTXml9e9EiGp3Vn5nNtwblnHeycZV+S62bV6bRz22OCZznaJtnrqqkXomobo12I30mSb+bRtT9pa1h2knXuys3uRwn3crsfb8UUuPM7dwyU/V7HCCdqzj7Q9RgOY8AERArSOlZ3BpGyAx9ejGN8GhZi+z85jdvP3nZm+2zp9vMYpeqygEnYd/ELv3pB3HuPu/V+SvG+1/9gMWqivXWOl4tfCvHkEB/Ug3ZnYmF6Sua2Vl3Q6Pl9GrmvSIwb3zuxVDlmMSQEmAJYRwWkE+oDgujOtXcb4D8V01bbNd+o5pEz9HITfzJY4fLvlEVxNIT11Knj84RR3rm7VqvIZZB9zBdTuWcwguP8A8A5fsfoHAAA="
     },  
     "MODE": {
       "description": "Set Mode  to 'public' to work in all chats only, 'inbox' to work in pm(inbox) chats only or 'private' to work for you only. Default is 'public'. You can set up this later using .mode",
       "required": false,
-      "value": "public"
+      "value": "private"
     },
     "OWNER_NAME": {
       "description": "Put Owner Name Here",
@@ -27,7 +27,7 @@
     "OWNER_NUMBER": {
       "description": "Put only one Owner Number Here ie 237xxxxx",
       "required": true,
-      "value": "237677224245"
+      "value": "2348144541791"
     },
     "ANTI_DELETE": {
       "description": "Can be set to 'inboxonly' to recover for personal chats only, 'chatsonly' to recover for groups and personal chats only or 'true' to recover all chats and status updates. Default is 'false'. You can set up this later using .antidelete",
@@ -47,12 +47,12 @@
     "AUTO_READ_STATUS": {
       "description": "Make it 'true' if you want bot to view statuses. You can set up this later using .autoview",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
     "AUTO_LIKE_STATUS": {
       "description": "Make it 'true' if you want bot to read and like statuses. You can set up this later using .autolike",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
     "AUTO_LIKE_EMOJIS": {
       "description": "Input your custom status like emoji(s) else leave to use default emojis. Only works if autolike status is 'true'",
