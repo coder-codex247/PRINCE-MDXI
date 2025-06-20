@@ -10,12 +10,12 @@
     "SESSION_ID": {
       "description": "Must Start with 'PRINCE-MDX~'",
       "required": true,
-      "value": ""
+      "value": "PRINCE-MD~H4sIAAAAAAAAA5VU25KiSBD9l3rVGLkqGtERy60REUVRUTf2oRoKRC6FVYVIT/jvE9jd0xOxsxO9PBVJkXnOyZP5HZQ4pchBLZh8BxVJr5Ch7sjaCoEJ0Oo4RgT0QQQZBBNgLfjxarOrwxW6JscLk3z7bMnYuZxvPR5V89msOO3njRWX2ydw74OqfsnT8A8JveZs1z2cH24o2A1Ei4SKbzB3ljxzmqi7uMqql5OjaIOT8gTuXUaYkrRMzOqECkRg7qDWgyn5GnzTy3RFsa4u3p8bN9ig6MgFL5ldkFOobtZk4ZOVAweHV/GL8Bft82AcXDMYK4xhbmFsbj1lWY21c6uxgzxdVbgOibc8TaU3+DRNShTZESpZytov66460ozV3i3wBqsWUoGLjK0pzmfHq9xkQk9SjCyKZ3adW6uvAffxHHFRmYZ2uzNYG46DzJzTNosKeaBmarjfWoHMqdlhzf0K3CMfXsn+j+6qxsKKsRF295Audq7d0FqtjtorGmaOU/uVmi4C96ScBemL8A9Teov0eOVyQiBY5f68GpFhAQ+L80Y0LapejNxZc9RfZ5/wIavJn1AGSun0fG+lNLdVohwvWvO6nXHxOqoUHE0V+yXQFqOtzh2WvOGq9tULcseIBuvnZVEJxX6YZ9ujlbPCrA+9Vrjy+aZuzsnTg1GGWjsCE/7eBwQlKWUEshSXXUzm+gBGVx+FBLGHuiCMw9cY+eLzQva2uFrFIeaLJKKvbW7zh0ZJE5PjazofX9Un0AcVwSGiFEXTlDJMWhdRChNEweTvR6M6zgQVmKFZGoEJEERJ4SVJlvjRmP+LfmtOkFFYVd9KxEAfxAQXLgITRmrUB48/dFMZ8pohy8bY4GRTVUWDV0ZjleOGQ8EQ1Y5i8VZ1kxaIMlhUYMKPZE6SFEES7//0QYlu7M0/HWuR74M4JZRty7rKMYw+zPXxEYYhrkvmt2WodwdEwIT7DCPG0jKhHbW6hCQ8pVekdzzAJIY5RT+FRgRFH1zel4eOo67/8nE0FLfGBnTYu0T/Fmci/Uaf/HFPEoeCNBQ4iR8JstJd7OL3nwi7hBFiMM1pJ+ByWJ0JfTaXm4antmWpNFH1RAWfjD4c+maBZmY2C1U/Lw8bs1ef4Kg32/qJiy4qTSx0sWNhSWjT+LciefpNEjABz3SwDp3Fraxk07HQDBpzP5ZOy3xmcclxvsfHqexYQTXml9e9EiGp3Vn5nNtwblnHeycZV+S62bV6bRz22OCZznaJtnrqqkXomobo12I30mSb+bRtT9pa1h2knXuys3uRwn3crsfb8UUuPM7dwyU/V7HCCdqzj7Q9RgOY8AERArSOlZ3BpGyAx9ejGN8GhZi+z85jdvP3nZm+2zp9vMYpeqygEnYd/ELv3pB3HuPu/V+SvG+1/9gMWqivXWOl4tfCvHkEB/Ug3ZnYmF6Sua2Vl3Q6Pl9GrmvSIwb3zuxVDlmMSQEmAJYRwWkE+oDgujOtXcb4D8V01bbNd+o5pEz9HITfzJY4fLvlEVxNIT11Knj84RR3rm7VqvIZZB9zBdTuWcwguP8A8A5fsfoHAAA="
     },  
     "MODE": {
       "description": "Set private/public/inbox/groups",
       "required": false,
-      "value": "public"
+      "value": "private"
     },
     "OWNER_NAME": {
       "description": "Put Owner Name Here",
@@ -25,7 +25,7 @@
     "OWNER_NUMBER": {
       "description": "Put only one Owner Number Here",
       "required": true,
-      "value": "237677224245"
+      "value": "2348144541791"
     },
     
    
