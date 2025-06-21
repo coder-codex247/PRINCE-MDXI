@@ -20,7 +20,7 @@
     "OWNER_NAME": {
       "description": "Put Owner Name Here",
       "required": true,
-      "value": "ℂ𝕠𝕕𝕖𝕩"
+      "value": "Codex"
     },
     "OWNER_NUMBER": {
       "description": "Put only one Owner Number Here",
